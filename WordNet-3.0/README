@@ -77,7 +77,8 @@ CHANGES.txt (Windows) for a list of changes from previous versions.
 WordNet packages can either be downloaded from our web site via:
 
 http://wordnet.princeton.edu/obtain
-
+   http://wordnetcode.princeton.edu/3.0/WordNet-3.0.tar.bz2
+   
 The Windows package is a self-extracting archive that installs itself
 when you double-click on it.
 
